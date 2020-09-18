@@ -21,7 +21,7 @@ class Fila:
             return False
 
 
-    def fila_cheia(self):
+    def fila_cheia(self): #Alterar para uso de variavel count => mais rapido para o programa
         if self.__fim == None and self.__inicio == None:
             return False
         else:
