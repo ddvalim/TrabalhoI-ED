@@ -33,7 +33,7 @@ class Fila:
             return self.__limite == i
     
     
-    def pop(self):
+    def pop(self): #Alternar nome
         if self.fila_vazia() == True:
             raise Exception("A fila está vazia!")
         else:
@@ -45,7 +45,7 @@ class Fila:
                 self.__inicio = element.get_anterior()
     
 
-    def push(self, elemento:object):
+    def push(self, elemento:object):  #Alterar nome
         if isinstance(elemento, Elemento) and self.fila_cheia != True:
             
             if self.__inicio == None: #Significa que a fila esta vazia
