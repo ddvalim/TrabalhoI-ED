@@ -1,4 +1,4 @@
-<h1 align="center">💻 Trabalho I - Listas e Pilhas dinâmicamente encadeadas 💻 </h1>
+<h1 align="center">💻 Filas e Pilhas dinâmicamente encadeadas 💻 </h1>
 <p align="center">🚀 Trabalho de ESTRUTURA DE DADOS - INE5609 🚀</p>
 <p align="center">
  <a href="#tecnologias">Tecnologia</a> • 
